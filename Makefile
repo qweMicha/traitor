@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 CHANGE222
+=======
+//change111
+>>>>>>> branch2
 
 .PHONY: build
 build:
